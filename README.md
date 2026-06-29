@@ -2,6 +2,9 @@
 🌍 THE BOYS MINECRAFT MODPACK INSTALL GUIDE 🌍
 WHAT IS THIS?
 
+While installing make sure to install latest release zip unzip in the mods folder youll understand if you read 
+install 1.20.1 pack to join server pls
+
 This is our custom Minecraft modpack made to make the game:
 
 👻 Scarier
@@ -20,7 +23,7 @@ Think of it like Minecraft but upgraded.
 Fabric is the thing that lets all the mods work.
 
 Open the Fabric installer.
-Select Minecraft 1.26.2.
+Select Minecraft 1.20.1.
 Click Install.
 Done.
 
@@ -45,7 +48,7 @@ Open:
 Find the folder called:
 mods
 
-If it doesn't exist, create it.
+If it doesn't exist, you dont have minecraft.
 
 Copy ALL mod files from the modpack into:
 .minecraft/mods
