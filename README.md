@@ -4,6 +4,8 @@ WHAT IS THIS?
 
 While installing make sure to install latest release zip unzip in the mods folder youll understand if you read 
 install 1.20.1 pack to join server pls
+install additional modpacks also
+
 
 This is our custom Minecraft modpack made to make the game:
 
